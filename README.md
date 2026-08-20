@@ -4,7 +4,7 @@
 
 Prática Laboratorial 01 da disciplina **INF204 - Desenvolvimento para Dispositivos Móveis**, utilizando **React Native** e **Expo**.
 
-### Integrantes da dupla
+### Integrantes
 
 * **Nome:** Arthur Almeida Brustolini de Oliveira
   **Matrícula:** 26156
