@@ -1,45 +1,30 @@
-# INF204 - Prática Laboratorial 01
+# INF204 - Desenvolvimento para Dispositivos Móveis
 
-## Desenvolvimento para Dispositivos Móveis
+Repositório das Práticas Laboratoriais da disciplina **INF204 - Desenvolvimento para Dispositivos Móveis**, utilizando React Native, Expo e JavaScript.
 
-Prática Laboratorial 01 da disciplina **INF204 - Desenvolvimento para Dispositivos Móveis**, utilizando **React Native** e **Expo**.
+## Integrante
 
-### Integrantes
+- **Arthur Almeida Brustolini de Oliveira**
+- Matrícula: **26156**
 
-* **Nome:** Arthur Almeida Brustolini de Oliveira
-  **Matrícula:** 26156
+## Professor
 
-### Tecnologias utilizadas
+**João Vítor Rodrigues de Vasconcelos**
 
-* React Native
-* Expo
-* JavaScript
-* Node.js
+## Tecnologias
 
-### Sobre a prática
+- React Native
+- Expo
+- JavaScript
+- Node.js
+- Expo Go
 
-Nesta prática foi desenvolvido um aplicativo inicial utilizando React Native e Expo, trabalhando com os componentes `View` e `Text`, estilização com `StyleSheet` e gerenciamento de estado utilizando o hook `useState`.
+## Práticas
 
-Também foi implementado um contador com botão para incrementar a contagem.
-
-### Execução do projeto
-
-Para instalar as dependências:
-
-```bash
-npm install
-```
-
-Para iniciar o projeto:
-
-```bash
-npx expo start
-```
-
-O aplicativo pode ser executado utilizando o **Expo Go** em um dispositivo móvel ou através da plataforma Web.
-
-### Disciplina
-
-**INF204 - Desenvolvimento para Dispositivos Móveis**
-
-**Professor:** João Vítor Rodrigues de Vasconcelos
+| Prática | Conteúdo | Branch |
+|---|---|---|
+| 01 | Introdução ao React Native, componentes, StyleSheet e useState | `feature/pratica-01` |
+| 02 | *(descrição pendente)* | `feature/pratica-02` |
+| 03 | Core Components, StyleSheet, Flexbox, TouchableOpacity, TextInput, ScrollView e Jogo da Velha | `feature/pratica-03` |
+| 04 | State, useState, callbacks, dados derivados e formulário controlado | `feature/pratica-04` |
+| 05 | FlatList, virtualização, separadores, estado vazio, refresh e rolagem infinita | `feature/pratica-05` |
